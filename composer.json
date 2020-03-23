@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ramsey/uuid": "^3.9",
+        "lcobucci/jwt": "^3.3",
+        "vlucas/phpdotenv": "^4.1"
+    }
+}
